@@ -23,8 +23,33 @@ div.divine_armors {
     background-color:rgb(24, 54, 24);
 }
 
+div.divine_armors > a:link {
+    color: royalblue;
+}
+
+div.divine_armors > a:visited {
+    color: royalblue;
+}
+
+div.divine_armors > a:hover {
+    color: royalblue;
+}
+
 div.yggdrasil_essence {
     background-color: rgb(114, 88, 22)
+}
+
+
+div.yggdrasil_essence > a:link {
+    color: royalblue;
+}
+
+div.yggdrasil_essence > a:visited {
+    color: royalblue;
+}
+
+div.yggdrasil_essence > a:hover {
+    color: royalblue;
 }
 
 #bio {
