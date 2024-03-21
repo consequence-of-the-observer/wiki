@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: indigo;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+section {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right:100px;
+}
+
+div {
+    margin-top: 40px;
+    padding-bottom: 10px;
+}
+
+div.divine_armors {
+    background-color:rgb(24, 54, 24);
+}
+
+div.yggdrasil_essence {
+    background-color: rgb(114, 88, 22)
+}
+
+#bio {
+    margin-left: 500px;
+}
+
+footer {
+    margin-left: 200px;
+    color: white;
+}
+
+footer > a:link {
+    color:black;
+}
+
+footer > a:visited {
+    color:black;
+}
+
+footer > a:hover {
+    color:black;
+}
