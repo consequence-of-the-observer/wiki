@@ -1,0 +1,31 @@
+body {
+    color:white;
+    background-color: black;
+    header {
+        background-color: indigo;
+        margin-left: 100px;
+        margin-right: 100px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+        img {
+            width: 238.15px;
+            height: 64px;
+        }
+    }
+
+    section {
+        margin-left: 150px;
+        margin-right: 150px;
+
+        div {
+            background-color: maroon;
+            padding-bottom: 40px;
+        }
+    }
+
+    footer {
+        margin-left: 120px;
+        color: white;
+    }
+}
