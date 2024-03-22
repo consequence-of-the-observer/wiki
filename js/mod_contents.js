@@ -10,13 +10,5 @@ var mod_contents = {
     "mod3": {
         "title": "Mod 3",
         "taken": false
-    },
-    "mod4": {
-        "title": "Mod 4",
-        "taken": false
-    },
-    "mod5": {
-        "title": "Mod 5",
-        "taken": false
     }
 }
