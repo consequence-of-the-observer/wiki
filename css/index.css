@@ -21,10 +21,12 @@ body {
 
         div {
             background-color: rebeccapurple;
-            padding-bottom: 40px;
+            margin-top: 40px;
 
             img {
                 padding-top: 20px;
+                margin-left: 20px;
+                padding-bottom: 20px;
                 width: 258.875px;
                 height: 90.125px;
             }
