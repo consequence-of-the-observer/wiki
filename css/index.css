@@ -31,6 +31,14 @@ body {
                 height: 90.125px;
             }
         }
+
+        div#title {
+            align-items: center;
+            img {
+                width: 517.75px;
+                height: 180.25px;
+            }
+        }
     }
 
     footer {
