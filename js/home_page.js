@@ -1,7 +1,13 @@
 function homePage() {
-    checkAchievements();
+    checkAwards();
+    updateAwards();
+    selectMods();
+    welcomeHome();
+}
 
-    giveAchievement("welcome_home", "Welcome Home...");
-
-    updateAchievements();
+function welcomeHome() {
+    if(awards["welcome_home"] === false) {
+        awards["welcome_home"] = true;
+        localStorage.setItem("awards", JSON.stringify(awards));
+    }
 }

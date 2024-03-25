@@ -1,0 +1,40 @@
+body {
+    color:white;
+    background-color: black;
+    header {
+        background-color: indigo;
+        margin-left: 100px;
+        margin-right: 100px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+        img {
+            width: 238.15px;
+            height: 64px;
+        }
+    }
+
+    section {
+        margin-top: 50px;
+        margin-left: 150px;
+        margin-right: 150px;
+
+        div {
+            background-color: rebeccapurple;
+            margin-top: 40px;
+
+            img {
+                padding-top: 20px;
+                margin-left: 20px;
+                padding-bottom: 20px;
+                width: 258.875px;
+                height: 90.125px;
+            }
+        }
+    }
+
+    footer {
+        margin-left: 120px;
+        color: white;
+    }
+}
