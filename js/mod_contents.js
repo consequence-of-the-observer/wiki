@@ -1,14 +1,17 @@
 var mod_contents = {
     "mod1": {
-        "title": "Mod 1",
-        "taken": false
+        "title": "Armors of the Divines",
+        "taken": false,
+        "logo": "title_cards/divine_armors.png"
     },
     "mod2": {
-        "title": "Mod 2",
-        "taken": false
+        "title": "Essence of Yggdrasil",
+        "taken": false,
+        "logo": "title_cards/yggdrasil_essence.png"
     },
     "mod3": {
-        "title": "Mod 3",
-        "taken": false
+        "title": "The Ruined Center",
+        "taken": false,
+        "logo": "title_cards/ruined_center.png"
     }
 }
