@@ -22,7 +22,13 @@ function checkAwards() {
     updateAwards();
 }
 
+function giveAward(award, console_message) {
+    if(awards[award] === false) {
+        awards[award] = true;
+        console.log(console_message);
+    }
+}
+
 function updateAwards() {
-    localStorage.removeItem("awards");
     localStorage.setItem("awards", JSON.stringify(awards));
 }
